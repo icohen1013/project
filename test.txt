@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ajgjfghjfgjh
 aohjilhjjagfjohjalhg
+=======
+ajgfjghhkhjgfhjtigjhs45649
+>>>>>>> dog
